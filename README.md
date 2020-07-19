@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy... 👋
 
 - 🔭 I’m currently working on Vue Js
 - 🌱 I’m currently learning Nuxt Js
