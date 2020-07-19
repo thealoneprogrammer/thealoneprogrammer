@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Web kind of stuffs
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I sleep less code more, but when i sleep i you can't wake me up.
--->
