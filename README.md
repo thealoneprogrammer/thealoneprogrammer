@@ -8,4 +8,4 @@
 - ⚡ Fun fact: 👨‍💻 👨‍💻 👨‍💻
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thealoneprogrammer)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=thealoneprogrammer&count_private=true)]
