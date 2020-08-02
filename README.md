@@ -6,3 +6,7 @@
 - 💬 Ask me about Web kind of stuffs
 - 📫 How to reach me: ...
 - ⚡ Fun fact: 👨‍💻 👨‍💻 👨‍💻
+
+===
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thealoneprogrammer)](https://github.com/anuraghazra/github-readme-stats)
