@@ -1,3 +1,16 @@
-<p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/000/518/208/non_2x/man-working-with-computer-bright-colorful-vector-illustration.jpg" />
+### Hello Friend,... 👋
+
+- 🔭 I’m currently working on Vue Js
+- 🌱 I’m currently learning Nuxt Js
+- 👯 I’m looking to collaborate on FixB
+- 💬 Ask me about Web kind of stuffs
+- 📫 How to reach me: ...
+- ⚡ Fun fact: 👨‍💻 👨‍💻 👨‍💻
+
+![Sujith's github stats](https://github-readme-stats.vercel.app/api?username=thealoneprogrammer&count_private=true&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thealoneprogrammer&layout=compact)
+
+<br />
+
 </p>
