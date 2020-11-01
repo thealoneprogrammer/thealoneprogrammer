@@ -1,4 +1,5 @@
-### Hello Friend,... 👋
+<p align="center">
+  ### Hello Friend,... 👋
 
 - 🔭 I’m currently working on Vue Js
 - 🌱 I’m currently learning Nuxt Js
@@ -12,3 +13,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thealoneprogrammer&layout=compact)
 
 <br />
+
+</p>
