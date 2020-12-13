@@ -18,8 +18,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://labs.mysql.com/common/themes/sakila/favicon.ico" />
 <img align="left" alt="MongoDB" width="26px" src="https://www.mongodb.com/assets/images/global/favicon.ico" />
 <img align="left" alt="VueJs" width="26px" src="https://vuejs.org/images/icons/favicon-32x32.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Laravel" width="26px" src="https://laravel.com/img/favicon/favicon-32x32.png" />
 <img align="left" alt="Firebase" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/vf7e3a995d426e05d42b78fc7d21a14329a91016dc065dc22c480cc8f443ef33e/firebase/images/favicon.png" />
 <img align="left" alt="Django" width="26px" src="https://static.djangoproject.com/img/favicon.6dbf28c0650e.ico" />
