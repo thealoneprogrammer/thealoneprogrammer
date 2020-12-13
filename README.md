@@ -1,4 +1,4 @@
-### Hello Friend,... 👋
+### Hello, Friend... 👋
 
 - 🔭 I’m currently working on VueJs and TypeScript
 - 🌱 I’m currently learning NuxtJs
