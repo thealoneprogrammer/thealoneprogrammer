@@ -1,7 +1,7 @@
 ### Hello Friend,... 👋
 
-- 🔭 I’m currently working on Vue Js and TypeScript
-- 🌱 I’m currently learning Nuxt Js
+- 🔭 I’m currently working on VueJs and TypeScript
+- 🌱 I’m currently learning NuxtJs
 - ⚡ Fun fact: 👨‍💻 👨‍💻 👨‍💻
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thealoneprogrammer&layout=compact)
