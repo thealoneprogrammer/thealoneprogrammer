@@ -1,7 +1,7 @@
 ### Hello, Friend... 👋
 
 - 🔭 I’m currently working on VueJs and TypeScript
-- 🌱 I’m currently learning NuxtJs
+- 🌱 I’m currently learning NuxtJS and NestJS
 - ⚡ Fun fact: 👨‍💻 👨‍💻 👨‍💻
 
 <br/>
