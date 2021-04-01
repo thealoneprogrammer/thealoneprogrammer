@@ -6,8 +6,6 @@
 
 <br/>
 
-<img src="https://wakatime.com/share/@thealoneprogrammer/f307d981-8237-4d39-a585-6c030a671770.svg" width="500px" height="250px" />
-
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://static-exp3.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />](https://www.linkedin.com/in/sujith-d/)
