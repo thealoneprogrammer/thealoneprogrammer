@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://wakatime.com/share/@thealoneprogrammer/f307d981-8237-4d39-a585-6c030a671770.svg" width="200px" />
+<img src="https://wakatime.com/share/@thealoneprogrammer/f307d981-8237-4d39-a585-6c030a671770.svg" width="500px" />
 
 ### Connect with me:
 
