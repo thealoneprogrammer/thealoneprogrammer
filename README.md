@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on VueJs and TypeScript
 - 🌱 I’m currently learning NuxtJS and NestJS
 - ⚡ Fun fact: 👨‍💻 👨‍💻 👨‍💻
+- About me: [thealoneprogrammer.com](https://thealoneprogrammer.com/)
 
 <br/>
 
